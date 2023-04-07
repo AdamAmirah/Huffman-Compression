@@ -33,7 +33,6 @@ public:
 
     static int binaryToDecimal(string bin);
 
-    void
-    compress(string inputFile, string encodedFile);
+    void compress(string inputFile, string encodedFile);
     void decompress(string inputFile, string encodedFile);
 };
