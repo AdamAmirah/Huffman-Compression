@@ -1,4 +1,4 @@
-# Huffman-Compression-Tool
+# Huffman-Compression
      A Compression tool using Huffman coding technique.
 
 
