@@ -74,7 +74,16 @@
     "typeindex": "cpp",
     "typeinfo": "cpp",
     "valarray": "cpp",
-    "variant": "cpp"
+    "variant": "cpp",
+    "queue": "cpp",
+    "filesystem": "cpp"
   },
-  "cmake.configureOnOpen": true
+  "cmake.configureOnOpen": true,
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/home/amirah/huffman-Coding",
+      "binaryPath": "/home/amirah/huffman-Coding/huffmanEncoding",
+      "binaryArgs": []
+    }
+  ]
 }
